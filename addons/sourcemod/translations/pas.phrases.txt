@@ -1,0 +1,166 @@
+"Phrases"
+{
+   "pas_MenuTitle_Profile"
+   {   
+      "#format"   "{1:s},{2:s},{3:i},{4:i},{5:s},{6:s}"
+      
+      "ru"           "Ваши данные: \n \n- Общие сведения: \n \n-- Игрок c {5} \n--- На текущем сервере с {6} \n \n-- Наиграно всего: {2} \n--- На текущем сервере: {1} \n \n-- Вы подключались к нам: {3} раз \n--- Из них: {4} раз на этот сервер"
+      "en"           "Your data: \n \n- General: \n \n-- Player since {5} \n--- On the current server since {6} \n \n-- Played only: {2} \n--- On the current server: {1} \n \n-- You connected to us: {3} \n--- Of them: {4} on this server"
+   }
+
+   "pas_MenuItem_Profile"
+   {
+      "ru"           "Ваш профиль"
+      "en"           "Your profile"
+   }
+
+   "pas_MainTitle"
+   {
+      "ru"           "PAS Build 2.1"
+      "en"           "PAS Build 2.1"
+   }
+   
+   "back"
+   {
+      "en"           "Back"
+      "ru"           "Назад"
+   }
+
+   "pas_Global"
+   {
+      "ru"           "Межсерверная статистика"
+      "en"           "Cross-server statistics"
+   }
+
+   "pas_GlobalTitle"
+   {
+      "#format"      "{1:s},{2:i},{3:i},{4:i}"
+      "ru"           "Общая статистика: \n \n- Серверов: {4} шт. \n \n-- Всего наиграно: {1} \n-- К нам подключались: {2} раз \n-- Нас посетило: {3} игроков"
+      "en"           "General statistics: \n \n- Servers: {4}. \n \n -- Total played: {1} \n-- Connected to us: {2} times \n-- Visited us: {3} players"
+   }
+
+   "pas_Server"
+   {
+      "ru"           "Серверная статистика"
+      "en"           "Server statistics"
+   }
+
+   "pas_Server_title"
+   {
+      "#format"      "{1:s},{2:i},{3:i}"
+      "ru"           "Статистика сервера: \n \n-- Всего наиграно: {1} \n-- К нам подключались: {2} раз \n-- Нас посетило: {3} игроков"
+      "en"           "Server statistics: \n \n-- Total played: {1} \n-- Connected to us: {2} times \n-- Visited us: {3} players"
+   }
+
+   "pas_GlobalTop"
+   {
+      "ru"           "Топ по онлайну (межсерверный)"
+      "en"           "Top activity (cross-server)"
+   }
+
+   "pas_GlobalTop_title"
+   {
+      "#format"      "{1:i}"
+      "ru"           "Топ {1} по активности межсерверов"
+      "en"           "Top {1} activity (cross-server)"
+   }
+
+   "pas_ServerTop"
+   {
+      "ru"           "Топ по онлайну (сервер)"
+      "en"           "Top activity (server)"
+   }
+
+   "pas_ServerTop_title"
+   {
+      "#format"      "{1:i}"
+      "ru"           "Топ {1} по активности на сервере"
+      "en"           "Top {1} activity (server)"
+   }
+
+   "pas_Connections"
+   {
+      "ru"           "Подключения за период"
+      "en"           "Connections of period"
+   }
+
+   "pas_ConTitle"
+   {
+      "#format"      "{1:i}"
+      "ru"           "Статистика подключений: \n \nЗа выбранный период: {1}"
+      "en"           "Connection statistics: \n \nThe selected period: {1}"
+   }
+
+   "pas_cYesterday"
+   {
+      "ru"           "вчера"
+      "en"           "yesterday"
+   }
+
+   "pas_cToday"
+   {
+      "ru"           "сегодня"
+      "en"           "today"
+   }
+
+   "pas_cTomorrow"
+   {
+      "ru"           "завтра"
+      "en"           "tomorrow"
+   }
+
+   "pas_cThisWeek"
+   {
+      "ru"           "текущая неделя"
+      "en"           "this week"
+   }
+   "pas_cLastweek"
+   {
+      "ru"           "прошлая неделя"
+      "en"           "last week"
+   }
+
+   "pas_cThisMonth"
+   {
+      "ru"           "текущий месяц"
+      "en"           "this month"
+   }
+
+   "pas_cLastMonth"
+   {
+      "ru"           "прошлый месяц"
+      "en"           "last month"
+   }
+
+   "pas_cThisYear"
+   {
+      "ru"           "текущий год"
+      "en"           "this year"
+   }
+
+   "pas_cLastYear"
+   {
+      "ru"           "прошлый год"
+      "en"           "last year"
+   }
+
+   "pas_AIMStat"
+   {
+      "ru"           "Профили игроков"
+      "en"           "Players stat"
+   }
+
+   "pas_AIMList"
+   {
+      "ru"           "Лист игроков онлайн:"
+      "en"           "Players list:"
+   }
+
+   "pas_AIMTarget_Title"
+   {   
+      "#format"   "{1:N},{2:s},{3:s},{4:i},{5:i},{6:s},{7:s}"
+      
+      "ru"           "Статистика игрока {1}: \n \n- Общие сведения: \n \n-- Игрок c {7} \n--- На текущем сервере с {6} \n \n-- Наиграно всего: {3} \n--- На текущем сервере: {2} \n \n-- Подключался к нам: {5} раз \n--- Из них: {4} раз на этот сервер"
+      "en"           "Stats of player {1}: \n \n- General: \n \n-- Player since {7} \n--- On the current server since {6} \n \n-- Played only: {3} \n--- On the current server: {2} \n \n-- Connected to us: {5} \n--- Of them: {4} on this server"
+   }
+}
